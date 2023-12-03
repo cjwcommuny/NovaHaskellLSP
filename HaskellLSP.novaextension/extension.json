@@ -5,6 +5,7 @@
     "description": "Haskell Language Server ",
     "version": "1.0",
     "categories": ["languages"],
+    "bugs": "https://github.com/cjwcommuny/NovaHaskellLSP/issues",
     
     "main": "main.js",
     
