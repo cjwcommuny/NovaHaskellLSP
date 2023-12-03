@@ -1,0 +1,1 @@
+./HaskellLSP.novaextension/README.md
