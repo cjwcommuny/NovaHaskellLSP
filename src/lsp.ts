@@ -1,4 +1,4 @@
-const defaultLspPath = '/usr/bin/hls';
+const defaultLspPath = '~/.ghcup/bin/haskell-language-server-wrapper';
 
 // [name, defaultValue]
 const initializationOptions: Array<[string, any]> = [

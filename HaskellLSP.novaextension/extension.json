@@ -26,7 +26,7 @@
             "key": "haskell.language-server-path",
             "title": "Language Server (haskell-language-server) Path",
             "type": "path",
-            "default": "/usr/bin/hls"
+            "default": "~/.ghcup/bin/haskell-language-server-wrapper"
         }
     ],
     "commands": {
